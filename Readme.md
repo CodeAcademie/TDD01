@@ -2,7 +2,7 @@
 
 Une [URL](http://blog.xebia.fr/2008/04/11/les-10-commandements-des-tests-unitaires/) certes, un peu veille, mais toujours d'actualité. 
 
-Les tests servent à garantir le bon fonctionnement de votre application. Mais aussi à garantir le fait que vous ne fassiez pas de [régressions](x=https://fr.wikipedia.org/wiki/Test_de_r%C3%A9gression). 
+Les tests servent à garantir le bon fonctionnement de votre application. Mais aussi à garantir le fait que vous ne fassiez pas de [régressions](https://fr.wikipedia.org/wiki/Test_de_r%C3%A9gression). 
 
 En effet, l'application que vous développez est vouée à évoluer. Une fois la première version livrée à votre client, il est probable et souhaité qu'il revienne vers vous pour une amélioration de certaines fonctionnalités. Mais comment vous assurer que les nouvelles fonctionnalités ne viennent pas perturber l'existant? 
 
@@ -42,3 +42,8 @@ Ces tests sont basés sur un language nommé le Gherkin. Des bibliothèques, sp�
 Les tests mentionnés ci-dessus ne permettent pas pour autant de valider le graphisme d'un site internet, de valider le bon support des navigateurs ni même le côté responsive d'un site. 
 
 Pour se faire il existe des tests automatiques du type de [Selenium](http://www.seleniumhq.org/docs/01_introducing_selenium.jsp).
+
+## Liens Test Unitaire
+* Jasmine
+* PHPUnit
+* PyUnit
