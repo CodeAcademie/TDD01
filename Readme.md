@@ -47,3 +47,10 @@ Pour se faire il existe des tests automatiques du type de [Selenium](http://www.
 * Jasmine
 * PHPUnit
 * PyUnit
+
+
+## Exercice
+
+Après vous être documenté sur les technologies, réaliser des tests unitaires pour votre application de Pomodoro.
+
+Une fois celà réalisé, montrez le aux formateurs pour correction puis amorcez la même démarche mais pour l'application Reminder.
